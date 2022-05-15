@@ -14,5 +14,5 @@ def main() -> None:
     print(get_running_sum(number_str))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
