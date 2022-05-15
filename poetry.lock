@@ -320,7 +320,7 @@ testing = ["coverage (>=4)", "coverage-enable-subprocess (>=1)", "flaky (>=3)", 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "ad56fad9be1832d98f2cda44f3e713e3815a8274532544e9709774135337a173"
+content-hash = "55894388816b37e61b3e8d84fd77e4354ebfbbbfe82618bfa697342eedc307d4"
 
 [metadata.files]
 "aspy.refactor-imports" = [
